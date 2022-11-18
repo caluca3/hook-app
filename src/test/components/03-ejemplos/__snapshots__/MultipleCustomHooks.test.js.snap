@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en mnultiples custom hooks Debe mostrarse correctamente 1`] = `
+Object {
+  "rerender": [Function],
+  "result": Object {
+    "all": Array [
+      <React.Fragment>
+        <div>
+          <h1>
+            BreakingbBad quotes
+          </h1>
+          <hr />
+          <blockquote
+            className="text-end"
+          >
+            <p
+              className="mb-0"
+            />
+            <br />
+            <footer
+              className="blockquote-footer"
+            />
+          </blockquote>
+          <button
+            className="btn btn-primary"
+            id="btn"
+            onClick={[Function]}
+          >
+            Siguiente quote
+          </button>
+        </div>
+      </React.Fragment>,
+    ],
+    "current": <React.Fragment>
+      <div>
+        <h1>
+          BreakingbBad quotes
+        </h1>
+        <hr />
+        <blockquote
+          className="text-end"
+        >
+          <p
+            className="mb-0"
+          />
+          <br />
+          <footer
+            className="blockquote-footer"
+          />
+        </blockquote>
+        <button
+          className="btn btn-primary"
+          id="btn"
+          onClick={[Function]}
+        >
+          Siguiente quote
+        </button>
+      </div>
+    </React.Fragment>,
+    "error": undefined,
+  },
+  "unmount": [Function],
+  "waitFor": [Function],
+  "waitForNextUpdate": [Function],
+  "waitForValueToChange": [Function],
+}
+`;

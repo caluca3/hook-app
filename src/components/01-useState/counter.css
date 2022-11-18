@@ -1,0 +1,12 @@
+body{
+    padding: 80px;
+    background-color: rgb(173, 166, 166);
+    
+}
+
+button{
+    font-size: 1.2rem;
+    margin-right: 9px;
+    padding: 9px;
+    
+}

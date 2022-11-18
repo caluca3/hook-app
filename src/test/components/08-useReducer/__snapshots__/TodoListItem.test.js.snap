@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en todolist should correctly 1`] = `
+Object {
+  "all": Array [
+    <React.Fragment>
+      <li
+        className="list-group-item"
+      >
+        <p
+          className="false"
+          onClick={[Function]}
+        >
+           
+          1
+           
+          Aprender
+        </p>
+        <button
+          className="btn btn-danger"
+          onClick={[Function]}
+        >
+          Borrar
+        </button>
+      </li>
+    </React.Fragment>,
+  ],
+  "current": <React.Fragment>
+    <li
+      className="list-group-item"
+    >
+      <p
+        className="false"
+        onClick={[Function]}
+      >
+         
+        1
+         
+        Aprender
+      </p>
+      <button
+        className="btn btn-danger"
+        onClick={[Function]}
+      >
+        Borrar
+      </button>
+    </li>
+  </React.Fragment>,
+  "error": undefined,
+}
+`;

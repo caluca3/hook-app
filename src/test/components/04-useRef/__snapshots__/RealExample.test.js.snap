@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente RealExample Debe mostrarse 1`] = `
+Object {
+  "all": Array [
+    <React.Fragment>
+      <div>
+        RealExample
+      </div>
+      <hr />
+      <button
+        className="btn btn-warning mt-5"
+        onClick={[Function]}
+      >
+        Show/Hide
+      </button>
+    </React.Fragment>,
+  ],
+  "current": <React.Fragment>
+    <div>
+      RealExample
+    </div>
+    <hr />
+    <button
+      className="btn btn-warning mt-5"
+      onClick={[Function]}
+    >
+      Show/Hide
+    </button>
+  </React.Fragment>,
+  "error": undefined,
+}
+`;

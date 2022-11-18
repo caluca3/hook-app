@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should increment counter 1`] = `
+Object {
+  "all": Array [
+    <React.Fragment>
+      <div>
+        HookApp
+      </div>
+    </React.Fragment>,
+  ],
+  "current": <React.Fragment>
+    <div>
+      HookApp
+    </div>
+  </React.Fragment>,
+  "error": undefined,
+}
+`;
